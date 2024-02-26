@@ -1,0 +1,22 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "hii",
+  "main": "hii",
+  "scripts": {
+    "test": "2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "Abhimanyu",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
