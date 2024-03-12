@@ -2,7 +2,7 @@
 
 [Live here](https://abhi6777.github.io/Restaurant_Page/)
 
-[![Preview](./src/README.png)](https://abhi6777.github.io/Restaurant_Page/)
+[![Preview](/README.png)](https://abhi6777.github.io/Restaurant_Page/)
 
 This is a simple restaurant website built using HTML, CSS, and JavaScript. The website allows users to navigate between different sections such as the home page, menu, and about page to learn more about the restaurant.
 
