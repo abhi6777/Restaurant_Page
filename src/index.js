@@ -1,6 +1,7 @@
 import home from "./initial-page.js";
 import menu from "./menu.js";
 import about from "./about.js";
+import "./style.css";
 
 const content = document.querySelector("#content");
 document.body.style.backgroundColor = "green";

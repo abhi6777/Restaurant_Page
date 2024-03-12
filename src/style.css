@@ -1,0 +1,58 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+body .images {
+  display: block;
+  height: 300px;
+  width: 300px;
+  border-radius: 2rem;
+}
+
+.FoodTruck {
+  height: 500px;
+  width: 900px;
+  border-radius: 2rem;
+}
+
+#content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+}
+
+nav {
+  display: grid;
+  grid-auto-flow: column;
+  gap: 3rem;
+}
+
+nav button {
+  width: 5rem;
+  height: 2rem;
+  border: 2px solid black;
+  border-radius: 4rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.intro {
+  width: 80%;
+  color: white;
+}
+
+.des {
+  width: 80%;
+  color: aliceblue;
+  font-size: larger;
+}
+
+.items {
+  color: rgb(255, 238, 0);
+  font-size: xx-large;
+}

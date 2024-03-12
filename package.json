@@ -4,7 +4,8 @@
   "description": "hii",
   "main": "hii",
   "scripts": {
-    "test": "2"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -16,6 +17,8 @@
   "author": "Abhimanyu",
   "license": "UNLICENSED",
   "devDependencies": {
+    "css-loader": "^6.10.0",
+    "style-loader": "^3.3.4",
     "webpack": "^5.90.3",
     "webpack-cli": "^5.1.4"
   }
